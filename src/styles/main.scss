@@ -1,0 +1,76 @@
+html{
+    background-color: #1E1E1E !important;
+    background: rgb(30, 30, 30);
+    background: linear-gradient(90deg, rgba(30, 30, 30, 1) 30%, rgba(255, 180, 3, 1) 200%);
+}
+
+.download:hover{
+    background-color: #1E1E1E !important;
+    color: #FFB403 !important;
+}
+.text-is-yellow {
+    color: #FFB403 !important
+}
+.text-is-gira-black {
+    color: #1E1E1E !important
+}
+
+.has-background-yellow
+{
+    background-color: #FFB403 !important;
+    border: 1px solid #1E1E1E !important
+}
+
+.has-background-gira-black
+{
+    background-color: #1E1E1E !important
+}
+.has-border-yellow
+{
+    border: #FFB403 2px solid
+}
+
+.columns{
+    border-top: #FFB403 2px solid !important
+}
+
+.navbar{
+    background: rgb(30, 30, 30);
+    background: linear-gradient(90deg, rgba(30, 30, 30, 1) 30%, rgba(255, 180, 3, 1) 200%);
+    border-top: #FFB403 2px solid !important
+}
+
+.navbar-item:hover{
+    background-color:#FFB403;
+    color: #1E1E1E !important;
+}
+
+footer{
+    background: rgb(30, 30, 30) !important;
+    background: linear-gradient(90deg, rgba(30, 30, 30, 1) 30%, rgba(255, 180, 3, 1) 200%) !important;
+        border-top: #FFB403 2px solid !important
+}
+
+#navbarBasicExample .navbar-start {
+    justify-content: center !important;
+    width: 100% !important;
+}
+
+.results{
+    background: rgb(30, 30, 30);
+    background: linear-gradient(90deg, rgba(30, 30, 30, 1) 30%, rgba(255, 180, 3, 1) 200%);
+}
+
+td {
+    border-top: #FFB403 2px solid !important
+}
+th {
+    border-bottom: #FFB403 2px solid !important
+}
+
+
+
+
+
+
+@import "../../node_modules/bulma/bulma.scss";
