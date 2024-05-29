@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Description](#description)
-- [Deployement](#deployement)
+- [Deployment](#deployment)
 - [Timeframe & Working Team](#timeframe--working-team)
 - [Technologies used](#technologies-used)
 - [Planning](#planning)
@@ -17,7 +17,7 @@
 Task: Media Information System with Data Export
 I have been provided a JSON file that contains the results of a running race. My task was to create a “Media Information System” that displays the athletes and their results in a user interface that is easily readable for sports commentators or other media personnel. I also needed to provide the user with the ability to export the results data to a CSV file in a specific format.
 
-## Deployement
+## Deployment
 
 I have used Netify to deploy our app
 
@@ -30,8 +30,6 @@ I have used Netify to deploy our app
 
 ## Timeframe & Working Team
 
- This was done over the course of 2.5 hours.
- 
  1. I first started with the app setup and the navigation setup.
  2. I then worked on the main component called "Result". In this component, I mapped all the information needed to be displayed.
  3. I finalized with the footer and the styling.
