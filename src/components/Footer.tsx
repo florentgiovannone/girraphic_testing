@@ -111,21 +111,6 @@ function Footer() {
                 <LinkedinIcon className="text-is-yellow custom-icon" />
               </a>
             </div>
-            <div className="level-right m-6 ">
-              <a href="https://www.facebook.com/girraphic/" target="_blank" rel="noopener noreferrer">
-                <FacebookIcon className="text-is-gira-black custom-icon" />
-              </a>
-              <a href="https://x.com/Girraphic" target="_blank" rel="noopener noreferrer">
-                <XIcon className="text-is-gira-black custom-icon" />
-              </a>
-              <a href="https://www.instagram.com/girraphic/" target="_blank" rel="noopener noreferrer">
-                <InstagramIcon className="text-is-gira-black custom-icon" />
-              </a>
-              <a href="https://www.linkedin.com/company/girraphic/" target="_blank" rel="noopener noreferrer">
-                <LinkedinIcon className="text-is-gira-black custom-icon" />
-              </a>
-            </div>
- 
           </div>
         </div>
       </footer>

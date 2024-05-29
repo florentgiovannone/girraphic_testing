@@ -32,6 +32,8 @@ export default function Results() {
         }
         setSortConfig({ key, direction });
     };
+
+    
     let date = data.results.tod;
     let formattedDate = moment(date).format('MMMM Do YYYY')
     console.log(formattedDate);
